@@ -29,7 +29,7 @@ Watch it [here](https://drive.google.com/file/d/1sjSvGlT1i74brNqmXFQyH_YxRUflUJu
    - Scikit-learn
    - Matplotlib
    - Numpy
-2. Fork this repository.
+2. **Fork** this repository.
 3. **Clone the repository**:  
    ```bash
    git clone https://github.com/<username>/Handwritten-Digit-Classification.git
