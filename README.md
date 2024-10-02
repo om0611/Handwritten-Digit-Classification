@@ -9,10 +9,10 @@
 - [Usage](#usage)
 
 ## Overview
-A machine learning model that can recognize and identify handwritten digits (0-9) from images. View the demo [here](https://drive.google.com/file/d/1sjSvGlT1i74brNqmXFQyH_YxRUflUJu8/view?.usp=sharing).
+A machine learning model that can recognize and identify handwritten digits (0-9) from images.
 
 ## Demo
-https://drive.google.com/file/d/1sjSvGlT1i74brNqmXFQyH_YxRUflUJu8/view?.usp=sharing
+Watch it [here](https://drive.google.com/file/d/1sjSvGlT1i74brNqmXFQyH_YxRUflUJu8/view?.usp=sharing).
 
 ## Features
 - Trained on the MNIST dataset, featuring 28x28 grayscale images of handwritten digits from 0 to 9.
