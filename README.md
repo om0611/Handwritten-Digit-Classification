@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -9,6 +10,9 @@
 
 ## Overview
 A machine learning model that can recognize and identify handwritten digits (0-9) from images. View the demo [here](https://drive.google.com/file/d/1sjSvGlT1i74brNqmXFQyH_YxRUflUJu8/view?.usp=sharing).
+
+## Demo
+https://drive.google.com/file/d/1sjSvGlT1i74brNqmXFQyH_YxRUflUJu8/view?.usp=sharing
 
 ## Features
 - Trained on the MNIST dataset, featuring 28x28 grayscale images of handwritten digits from 0 to 9.
@@ -25,11 +29,12 @@ A machine learning model that can recognize and identify handwritten digits (0-9
    - Scikit-learn
    - Matplotlib
    - Numpy
-2. **Clone the repository**:  
+2. Fork this repository.
+3. **Clone the repository**:  
    ```bash
-   git clone https://github.com/om0611/Handwritten-Digit-Classification.git
+   git clone https://github.com/<username>/Handwritten-Digit-Classification.git
    ```
-3. **Navigate to the directory**:
+4. **Navigate to the directory**:
    ```bash
    cd Handwritten-Digit-Classification
    ```
