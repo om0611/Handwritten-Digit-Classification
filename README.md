@@ -32,7 +32,7 @@ Watch it [here](https://drive.google.com/file/d/1sjSvGlT1i74brNqmXFQyH_YxRUflUJu
 2. **Fork** this repository.
 3. **Clone the repository**:  
    ```bash
-   git clone https://github.com/<username>/Handwritten-Digit-Classification.git
+   git clone https://github.com/<your_username>/Handwritten-Digit-Classification.git
    ```
 4. **Navigate to the directory**:
    ```bash
